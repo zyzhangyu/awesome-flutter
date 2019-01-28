@@ -19,8 +19,10 @@
 </p>
 
 <a href="https://flutter.io/">Flutter</a> is a mobile app SDK for building high-performance, high-fidelity, apps for iOS and Android, from a single codebase.
+Flutter 是一個使用一套代碼高效率的高保真創建iOS和安卓移動app的sdk。
 
 If you appreciate the content 📖, support projects visibility, give 👍| ⭐| 👏
+如果你喜歡這些内容，讓更多的人看見，請點贊，star和支持！
 
 <div style="text-align: center"><table><tr>
   <td style="text-align: center">
